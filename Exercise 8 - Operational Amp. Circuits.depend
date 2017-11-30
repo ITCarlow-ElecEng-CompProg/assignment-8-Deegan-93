@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1511357516 source:c:\users\user\desktop\it carlow\2nd year college\computer programming\exercise 8 - operational amp. circuits\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<windows.h>
+
